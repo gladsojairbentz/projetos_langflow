@@ -1,4 +1,4 @@
-para utilizar basta importar o arquivo no lanflow, fazendo pequenos ajuste nas chave de api do seu uso.
+para utilizar cada um destes projeto basta importar o arquivo no lanflow, fazendo pequenos ajuste nas chave de api do seu uso.
 
 
 Langflow é uma plataforma de desenvolvimento de aplicativos de IA de baixo código e visual, que permite criar aplicações de IA multi-agente e de Recuperação de Informação (RAG)1
